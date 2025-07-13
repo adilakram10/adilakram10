@@ -36,5 +36,5 @@ Kuberenetes, Docker, Terraform, Prometheus, Linux, Webservices, etc.
 
 - 📫 How to reach me: Follow me on Github to stay up-to-date with my latest projects and contributions. I'm excited to connect with you and explore new oppurtunities in the world of cloud computing and beyond. I'm always looking to learn new technologies and collaborate with like-minded individuals.
 
-- Email: adil.akram87@yahoo.com
+- Email: adil.akram87@gmail.com
 - Linkedin: https://linkedin.com/in/adilakram
